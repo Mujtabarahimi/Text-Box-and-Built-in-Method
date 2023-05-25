@@ -1,0 +1,11 @@
+C:\Users\moham\source\repos\text\text\bin\Debug\text.exe.config
+C:\Users\moham\source\repos\text\text\bin\Debug\text.exe
+C:\Users\moham\source\repos\text\text\bin\Debug\text.pdb
+C:\Users\moham\source\repos\text\text\obj\Debug\text.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\text\text\obj\Debug\text.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\text\text\obj\Debug\text.Form1.resources
+C:\Users\moham\source\repos\text\text\obj\Debug\text.Properties.Resources.resources
+C:\Users\moham\source\repos\text\text\obj\Debug\text.csproj.GenerateResource.cache
+C:\Users\moham\source\repos\text\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\text\text\obj\Debug\text.exe
+C:\Users\moham\source\repos\text\text\obj\Debug\text.pdb
